@@ -1,7 +1,7 @@
 # Cards and Shapes – Hover Animation Project
 This is a front-end project built using **HTML and CSS**, showcasing interactive cards and geometric shapes that change appearance when hovered over. It’s a great demonstration of CSS transitions and hover effects.
 ### Technologies Used
-- HTML5 
+- HTML5
 - CSS3
 ### Purpose
 - Improve frontend development skills
